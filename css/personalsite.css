@@ -28,11 +28,11 @@
     justify-content: center;
 }
 
-#blogs{
-    margin-left: 15%;
-    margin-right: 15%;
+/*#blogs{*/
+    /*margin-left: 15%;*/
+    /*margin-right: 15%;*/
 
-}
+/*}*/
 
 .careerStory{
     padding-left: 2em;
@@ -40,8 +40,8 @@
 }
 
 #twitter{
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 body {margin-top:20px;}
